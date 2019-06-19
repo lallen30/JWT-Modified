@@ -1,3 +1,15 @@
+This plugin has been modified by larry Allen
+
+When the JWT Plugin shows it's ready for an updated. Then update it and then copy the files to this plugin and change public/class-jwt-auth-public.php line 162
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
 # JWT Authentication for the WP REST API
 
 A simple plugin to add [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) Authentication to the WP REST API.
